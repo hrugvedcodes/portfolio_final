@@ -5,7 +5,7 @@ import { useState } from "react";
 import emailjs from "emailjs-com";
 import toast, { Toaster } from "react-hot-toast";
 import { FaEye } from "react-icons/fa";
-import "/home/hrugved/Desktop/My-3D-Portfolio/src/style.css";
+import "../style.css";
 
 const Section = (props) => {
   const { children, mobileTop } = props;
