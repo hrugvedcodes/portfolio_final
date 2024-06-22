@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-const CURSOR_SPEED = 0.08;
+const CURSOR_SPEED = 1.08;
 
 let mouseX = -10;
 let mouseY = -10;

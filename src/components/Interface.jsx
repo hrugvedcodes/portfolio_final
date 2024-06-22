@@ -50,7 +50,7 @@ export const Interface = (props) => {
 const AboutSection = (props) => {
   const { setSection } = props;
   const handleViewCV = () => {
-    const cvUrl = "/resume_hrugved.pdf";
+    const cvUrl = "/hrugved.resume.pdf";
     window.open(cvUrl, "_blank");
   };
   return (

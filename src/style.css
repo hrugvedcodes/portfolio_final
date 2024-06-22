@@ -1,12 +1,12 @@
 @keyframes glow {
   0% {
-    box-shadow: 0 0 5px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff;
+    box-shadow: 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff;
   }
   50% {
-    box-shadow: 0 0 1px #00ffff, 0 0 1px #00ffff, 0 0 1px #00ffff, 0 0 1px #00ffff, 0 0 1px #00ffff, 0 0 1px #00ffff, 0 0 1px #00ffff, 0 0 1px #00ffff;
+    box-shadow: 0 0 5px #00ffff, 0 0 5px #00ffff, 0 0 5px #00ffff, 0 0 5px #00ffff, 0 0 5px #00ffff, 0 0 5px #00ffff, 0 0 5px #00ffff, 0 0 5px #00ffff;
   }
   100% {
-    box-shadow: 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff, 0 0 1px #ff00ff;
+    box-shadow: 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff, 0 0 5px #ff00ff;
   }
 }
 
